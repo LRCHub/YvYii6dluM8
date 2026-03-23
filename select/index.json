@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ビバリウム - Vivarium",
+  "base_track": "ビバリウム",
   "base_artist": "Ado",
-  "createdAt": "2026-03-02T04:28:18.703793Z",
+  "createdAt": "2026-03-23T23:15:48.056888Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,43 @@
       "artist": "Ado",
       "has_synced": false,
       "path": "select/pl_01_ビバリウム_Ado.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ビバリウム",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/localdb_01_ビバリウム_Ado.txt",
+      "repo_name": "YvYii6dluM8"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ビバリウム",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_02_ビバリウム_Ado.lrc",
+      "repo_name": "xBxwKeVGFeg"
+    },
+    {
+      "id": "localdb_dynamic_2",
+      "source": "localdb",
+      "title": "ビバリウム",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_02_ビバリウム_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "xBxwKeVGFeg"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "ビバリウム",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/localdb_03_ビバリウム_Ado.txt",
+      "repo_name": "jw7wnbM1ELM"
     }
   ]
 }
